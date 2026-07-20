@@ -61,10 +61,10 @@ const dho = {
 <div align="center">
 
 <a href="https://github.com/DHO212">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DHO212&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=A177FE&text_color=8B949E&count_private=true" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DHO212&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=A177FE&text_color=8B949E&count_private=true" />
 </a>
 <a href="https://github.com/DHO212">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DHO212&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&text_color=8B949E" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DHO212&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&text_color=8B949E" />
 </a>
 
 </div>
@@ -82,7 +82,7 @@ const dho = {
 <div align="center">
 
 <a href="https://github.com/DHO212/minecraft-ai-farmer">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DHO212&repo=minecraft-ai-farmer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=A177FE&text_color=8B949E" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DHO212&repo=minecraft-ai-farmer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=A177FE&text_color=8B949E" />
 </a>
 
 </div>
