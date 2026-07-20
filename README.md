@@ -60,14 +60,18 @@ const dho = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DHO212&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=A177FE&text_color=8B949E" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHO212&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&text_color=8B949E" />
+<a href="https://github.com/DHO212">
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DHO212&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=A177FE&text_color=8B949E&count_private=true" />
+</a>
+<a href="https://github.com/DHO212">
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DHO212&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&text_color=8B949E" />
+</a>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DHO212&theme=tokyonight&hide_border=true&background=0D1117&ring=A177FE&fire=A177FE&currStreakLabel=A177FE" />
+<img src="https://streak-stats.demolab.com/?user=DHO212&theme=tokyonight&hide_border=true&background=0D1117&ring=A177FE&fire=A177FE&currStreakLabel=A177FE" />
 
 </div>
 
@@ -77,7 +81,9 @@ const dho = {
 
 <div align="center">
 
-[![Minecraft AI Farmer](https://github-readme-stats.vercel.app/api/pin/?username=DHO212&repo=minecraft-ai-farmer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=A177FE&text_color=8B949E)](https://github.com/DHO212/minecraft-ai-farmer)
+<a href="https://github.com/DHO212/minecraft-ai-farmer">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DHO212&repo=minecraft-ai-farmer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=A177FE&text_color=8B949E" />
+</a>
 
 </div>
 
@@ -87,7 +93,7 @@ const dho = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DHO212&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A177FE&line=A177FE&point=FFFFFF&area=true&area_color=A177FE" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DHO212&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A177FE&line=A177FE&point=FFFFFF&area=true&area_color=A177FE" width="95%"/>
 
 </div>
 
